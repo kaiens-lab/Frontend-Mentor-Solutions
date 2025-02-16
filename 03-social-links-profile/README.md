@@ -9,6 +9,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Demo](#demo)
+    - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
     - [Continued development](#continued-development)
@@ -26,6 +27,10 @@ Users should be able to:
 
 ![](./design/active-states.jpg)
 
+### Links
+
+c
+
 ## My process
 
 ### Built with
@@ -41,4 +46,4 @@ Continue learning CSS to become more proficient.
 
 ## Author
 
-- Frontend Mentor - [@kn070648](https://www.frontendmentor.io/profile/kn070648)
+- Frontend Mentor - [@kaiens-lab](https://www.frontendmentor.io/profile/kaiens-lab)
