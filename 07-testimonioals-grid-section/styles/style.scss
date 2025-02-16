@@ -1,0 +1,185 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400;700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --ModerateViolet: hsl(263, 55%, 52%);
+  --VeryDarkGrayishBlue: hsl(217, 19%, 35%);
+  --VeryDarkBlackishBlue: hsl(219, 29%, 14%);
+  --White: hsl(0, 0%, 100%);
+  --LightGray: hsl(0, 0%, 81%);
+  --LightGrayishBlue: hsl(210, 46%, 95%);
+}
+
+body {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  background-color: var(--LightGrayishBlue);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.testimonial-grid {
+  max-width: 1440px;
+  margin: 100px auto;
+  padding: 30px;
+  display: grid;
+  grid-template-areas:
+    "a a a b c"
+    "d e e e c";
+  grid-gap: 30px;
+
+  &__item {
+    position: relative;
+    border-radius: 10px;
+    display: block;
+    padding: 1.875rem;
+    box-shadow: 20px 20px 40px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
+
+    &--purple {
+      width: 33.75rem;
+      height: 17.625rem;
+      background-color: var(--ModerateViolet);
+      color: var(--White);
+      grid-area: a;
+    }
+
+    &--gray {
+      width: 15.9375rem;
+      height: 17.625rem;
+      background-color: var(--VeryDarkGrayishBlue);
+      color: var(--White);
+      grid-area: b;
+    }
+
+    &--large {
+      width: 15.9375rem;
+      height: 35.75rem;
+      color: var(--VeryDarkGrayishBlue);
+      background-color: var(--White);
+      grid-area: c;
+    }
+
+    &--small {
+      width: 15.9375rem;
+      height: 16.75rem;
+      color: var(--VeryDarkGrayishBlue);
+      background-color: var(--White);
+      grid-area: d;
+    }
+
+    &--dark {
+      width: 33.75rem;
+      height: 16.625rem;
+      background-color: var(--VeryDarkBlackishBlue);
+      color: var(--White);
+      grid-area: e;
+    }
+  }
+
+  &__header {
+    display: flex;
+    margin-bottom: 1.25rem;
+
+    img {
+      border-radius: 50%;
+      width: 1.75rem;
+      height: 1.75rem;
+      margin-right: 1rem;
+    }
+  }
+
+  &__name {
+    font-size: 0.8125rem;
+  }
+
+  &__title {
+    font-size: 0.6875rem;
+    opacity: 0.5;
+  }
+
+  &__quote {
+    font-size: 1.25rem;
+    margin-bottom: 1.25rem;
+    font-weight: 600;
+    position: relative;
+    z-index: 1;
+  }
+
+  &__details {
+    font-size: 0.8125rem;
+    opacity: 0.5;
+    line-height: 1.4;
+    position: relative;
+    z-index: 1;
+  }
+}
+
+.photo-border {
+  &--white {
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.2);
+  }
+
+  &--purple {
+    box-shadow: 0 0 0 2px hsl(263, 55%, 52%, 1);
+  }
+}
+
+.quote-img {
+  position: absolute;
+  top: 0px;
+  right: 5rem;
+  width: 100px;
+  opacity: 0.5;
+  z-index: 0;
+}
+
+footer {
+  color: var(--VeryDarkBlackishBlue);
+
+  a {
+    color: var(--VeryDarkGrayishBlue);
+  }
+}
+
+@media (min-width: 375px) and (max-width: 700px) {
+  .testimonial-grid {
+    display: flex;
+    flex-direction: column;
+
+    &__item {
+      width: 20rem;
+      height: auto;
+
+      &--purple {
+        order: 1;
+      }
+
+      &--gray {
+        order: 2;
+      }
+
+      &--small {
+        order: 3;
+      }
+
+      &--dark {
+        order: 4;
+      }
+
+      &--large {
+        order: 5;
+      }
+    }
+  }
+
+  .quote-img {
+    right: 1.625rem;
+  }
+}

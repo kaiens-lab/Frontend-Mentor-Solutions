@@ -1,0 +1,131 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --White: hsl(0, 0%, 100%);
+  --LightPink: hsl(275, 100%, 97%);
+  --GrayishPurple: hsl(292, 16%, 49%);
+  --DarkPurple: hsl(292, 42%, 14%);
+  --hoverPurple: hsl(281, 60%, 50%);
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: url("./assets/fonts/WorkSans-VariableFont_wght.ttf");
+}
+
+body {
+  background: url("./assets/images/background-pattern-desktop.svg") no-repeat;
+  background-color: var(--LightPink);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+}
+
+.icon-star {
+  width: 40px;
+  height: 40px;
+
+  margin-right: 1rem;
+}
+
+.FAQs-header {
+  display: flex;
+}
+
+.FAQs-header h1 {
+  font-size: 2.5rem;
+  color: var(--DarkPurple);
+}
+
+.FAQs-container {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  width: 565px;
+  // height: 600px;
+
+  border-radius: 1rem;
+  padding: 40px;
+  margin-bottom: 30px;
+}
+
+.question-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.plus-btn {
+  cursor: pointer;
+  display: "inline";
+}
+
+.question {
+  padding: 24px 0px;
+  font-weight: 600;
+  color: var(--DarkPurple);
+  cursor: pointer;
+}
+
+.question:hover {
+  color: var(--hoverPurple);
+}
+
+.answer {
+  color: var(--GrayishPurple);
+  font-size: 0.875rem;
+  max-height: 0;
+  overflow: hidden;
+  transition: padding 0.3s ease, opacity 0.3s ease;
+  padding: 0;
+  opacity: 0;
+  line-height: 1.5;
+}
+
+.answer.show {
+  max-height: 500px; /* 設置一個足夠大的高度 */
+  padding: 5px 0;
+  opacity: 1;
+}
+
+.btn-one {
+  display: inline;
+}
+
+.minus-btn {
+  src: url("./assets/images/icon-minus.svg");
+  display: none;
+}
+
+footer {
+  color: var(--DarkPurple);
+}
+
+footer a {
+  color: var(--GrayishPurple);
+}
+
+@media screen and (max-width: 575px) {
+  .FAQs-container {
+    width: 327px;
+    padding: 24px;
+  }
+
+  .question {
+    padding-right: 20px;
+  }
+
+  .icon-star {
+    width: 35px;
+    height: 35px;
+
+    margin-right: 1rem;
+    margin-bottom: -2rem;
+  }
+}
