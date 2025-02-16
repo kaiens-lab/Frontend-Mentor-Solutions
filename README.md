@@ -13,7 +13,7 @@ Here you can find all the [Frontend Mentor](https://www.frontendmentor.io/) chal
 | 07  | Testimonials grid section    | Jonior     | [REPO](https://github.com/kaiens-lab/frontend-mentor-solutions/tree/main/07-testimonioals-grid-section)     | [DEMO](https://kaiens-lab.github.io/frontend-mentor-solutions/07-testimonioals-grid-section/)     |
 | 08  | FAQ accordion                | Newbie     | [REPO](https://github.com/kaiens-lab/frontend-mentor-solutions/tree/main/08-faq-accordion-main)             | [DEMO](https://kaiens-lab.github.io/frontend-mentor-solutions/08-faq-accordion-main/)             |
 | 09  | Interactive rating component | Newbie     | [REPO](https://github.com/kaiens-lab/frontend-mentor-solutions/tree/main/09-interactive-rating-component)   | [DEMO](https://kaiens-lab.github.io/frontend-mentor-solutions/09-interactive-rating-component/)   |
-| 10  | Meet landing page            | Newbie     | [REPO](hhttps://github.com/kaiens-lab/frontend-mentor-solutions/tree/main/10-meet-landing-page)             | [DEMO](https://kaiens-lab.github.io/frontend-mentor-solutions/10-meet-landing-page/)              |
+| 10  | Meet landing page            | Newbie     | [REPO](https://github.com/kaiens-lab/frontend-mentor-solutions/tree/main/10-meet-landing-page)              | [DEMO](https://kaiens-lab.github.io/frontend-mentor-solutions/10-meet-landing-page/)              |
 | 11  | Product list with cart       | Jonior     | [REPO](https://github.com/kaiens-lab/frontend-mentor-solutions/tree/main/11-product-list-with-cart)         | [DEMO](https://kaiens-lab.github.io/frontend-mentor-solutions/11-product-list-with-cart/)         |
 |     |
 
