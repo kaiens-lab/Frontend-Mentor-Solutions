@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-c
+- Live Site URL: [https://kaiens-lab.github.io/frontend-mentor-solutions/03-social-links-profile/]
 
 ## My process
 
