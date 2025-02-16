@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://kaiens-lab.github.io/frontend-mentor-solutions/05-product-preview-card-component/]
 
 ## My process
 
@@ -69,4 +69,4 @@ In the future, I will study responsive design more deeply and use it in my work.
 
 ## Author
 
-- Frontend Mentor - [@KNChang](https://www.frontendmentor.io/profile/kn070648)
+- Frontend Mentor - [@kaiens-lab](https://www.frontendmentor.io/profile/kaiens-lab)
