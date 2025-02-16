@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [https://kaiens-lab.github.io/QR-cord-Component/]
+- Live Site URL: [https://kaiens-lab.github.io/frontend-mentor-solutions/01-qr-cord-component/]
 
 ## My process
 
@@ -32,4 +32,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@kn070648](https://www.frontendmentor.io/profile/@kn070648)
+- Frontend Mentor - [@kaiens-lab](https://www.frontendmentor.io/profile/kaiens-lab)
