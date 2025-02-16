@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Link
 
-- Live Site URL: [Product list with cart](https://kaiens-lab.github.io/Product-List-With-Cart/)
+- Live Site URL: [Product List with Cart](https://kaiens-lab.github.io/frontend-mentor-solutions/11-product-list-with-cart/)
 
 ## My process
 

@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Interactive Rating Component](https://kaiens-lab.github.io/Interactive-Rating-Component/)
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-HeRXzbVUOJ)
+- Live Site URL: [Interactive Rating Component](https://kaiens-lab.github.io/frontend-mentor-solutions/09-interactive-rating-component/)
 
 ## My process
 

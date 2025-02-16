@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Meet Landing Page](https://www.frontendmentor.io/solutions/meet-landing-page-1PjryYIgE6)
-- Live Site URL: [Meet Landing Page](https://kaiens-lab.github.io/Meet-Landing-Page/)
+- Live Site URL: [Meet Landing Page](https://kaiens-lab.github.io/frontend-mentor-solutions/10-meet-landing-page/)
 
 ## My process
 

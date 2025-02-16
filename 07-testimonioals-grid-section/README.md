@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Testimonials Grid Section](https://www.frontendmentor.io/solutions/testimonials-grid-section-scss-grid-XUlL59kqNb)
-- Live Site URL: [Testimonials Grid Section](https://kaiens-lab.github.io/Testimonioals-Grid-Section/)
+- Live Site URL: [Testimonials Grid Section](https://kaiens-lab.github.io/frontend-mentor-solutions/07-testimonioals-grid-section/)
 
 ## My process
 

@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot-desktop](./assets/images/screenshot-desktop.png.jpg)
-![screenshot-mobile](./assets//images/screenshot-mobile.png.jpg)
+![screenshot-desktop](./assets/images/screenshot-desktop.png)
+![screenshot-mobile](./assets/images/screenshot-mobile.png)
 
 ### Links
 
 - Solution URL: [Frontend Mentor - FAQs](https://www.frontendmentor.io/solutions/faqs-accordion-solution-OTyUvc9EZs)
-- Live Site URL: [FAQs](https://kaiens-lab.github.io/FAQs/)
+- Live Site URL: [FAQs](https://kaiens-lab.github.io/frontend-mentor-solutions/08-faq-accordion-main/)
 
 ## My process
 
