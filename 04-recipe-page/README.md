@@ -23,7 +23,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: []
+- Live Site URL: [https://kaiens-lab.github.io/frontend-mentor-solutions/04-recipe-page/]
 
 ## My process
 
@@ -64,4 +64,4 @@ This feature is great for making ordered lists or adding numbers to elements wit
 
 ## Author
 
-- Frontend Mentor - [@KN Chang](https://www.frontendmentor.io/profile/KNchang)
+- Frontend Mentor - [@kaiens-lab](https://www.frontendmentor.io/profile/kaiens-lab)
