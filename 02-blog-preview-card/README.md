@@ -9,6 +9,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Overview](#overview)
     - [The challenge](#the-challenge)
 - [Demo](#demo)
+    - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
@@ -28,6 +29,10 @@ Users should be able to:
 # Demo
 
 ![](blog_preview_card.gif)
+
+### Links
+
+- Live Site URL: [https://kaiens-lab.github.io/frontend-mentor-solutions/02-blog-preview-card/]
 
 ## My process
 
@@ -49,4 +54,4 @@ Continuously learning SCSS to make my code more concise and understandable.
 
 ## Author
 
-- Frontend Mentor - [@kn070648](https://www.frontendmentor.io/profile/@kn070648)
+- Frontend Mentor - [@kaiens-lab](https://www.frontendmentor.io/profile/kaiens-lab)
