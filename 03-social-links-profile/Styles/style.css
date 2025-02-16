@@ -1,0 +1,101 @@
+/* Colors */
+:root {
+  --grey: hsl(0, 0%, 20%);
+  --dark-grey: hsl(0, 0%, 12%);
+  --off-black: hsl(0, 0%, 8%);
+  --primary: hsl(75, 94%, 57%);
+  --white: hsl(0, 0%, 100%);
+}
+/* Reset */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url(./fonts/Inter-VariableFont_slntwght.ttf) format("truetype");
+  font-weight: 400 700;
+  font-style: normal;
+}
+body {
+  font-family: "Inter", sans-serif;
+  min-width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--off-black);
+  justify-content: center;
+  align-items: center;
+}
+body .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+}
+body .container .profile {
+  width: 375px;
+  background-color: var(--dark-grey);
+  border-radius: 15px;
+  text-align: center;
+  /* justify-content: center;
+  align-items: center; */
+  padding: 25px;
+}
+body .container .profile__image {
+  border-radius: 100px;
+  width: 140px;
+  padding: 25px;
+}
+body .container .profile__name {
+  color: var(--white);
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+body .container .profile__location {
+  color: var(--primary);
+  font-style: normal;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 45px;
+  /* padding: 10px; */
+}
+body .container .profile__text {
+  color: var(--white);
+  font-size: 0.8rem;
+  line-height: 45px;
+  /* padding: 20px; */
+}
+.link {
+  display: inline-block;
+  width: 300px;
+  height: 45px;
+  font-weight: 600;
+  font-size: 0.875rem;
+  color: var(--white);
+  text-decoration: none;
+  background-color: hsl(0, 0%, 20%);
+  margin: 8.5px;
+  text-align: center;
+  line-height: 45px;
+  border-radius: 10px;
+  /* padding: 10px; */
+}
+.link:hover {
+  background-color: var(--primary);
+  color: var(--off-black);
+}
+body .footer {
+  position: absolute;
+  bottom: 1rem;
+  color: var(--white);
+  text-decoration: none;
+  text-align: center;
+  font-size: 0.75rem;
+}
+body .footer a {
+  color: var(--primary);
+} /*# sourceMappingURL=style.css.map */
