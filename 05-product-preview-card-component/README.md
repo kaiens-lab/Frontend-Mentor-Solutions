@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://kaiens-lab.github.io/frontend-mentor-solutions/05-product-preview-card-component/]
+- Live Site URL: [Product Preview Card Component][https://kaiens-lab.github.io/frontend-mentor-solutions/05-product-preview-card-component/]
 
 ## My process
 

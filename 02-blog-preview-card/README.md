@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://kaiens-lab.github.io/frontend-mentor-solutions/02-blog-preview-card/]
+- Live Site URL: [Blog Preview Card](https://kaiens-lab.github.io/frontend-mentor-solutions/02-blog-preview-card/)
 
 ## My process
 
